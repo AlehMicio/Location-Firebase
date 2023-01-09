@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="title_activity_driver_maps">DriverMapsActivity</string>
+    <string name="title_activity_passanger_maps">PassangerMapsActivity</string>
+</resources>
