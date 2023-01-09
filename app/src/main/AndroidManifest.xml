@@ -31,7 +31,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCPjTA-cCOMOu040eS4xlZOQtgToKdhjAc" />
+            android:value="@string/api_key" />
 
         <activity
             android:name=".PassangerMapsActivity"
